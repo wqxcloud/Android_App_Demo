@@ -1,0 +1,2 @@
+# Android_CityList_Demo
+Android中，本地城市信息列表的获取与展示方式

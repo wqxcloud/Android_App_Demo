@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<province code="110000" value="Beijing">
+	    <city code="110101" value="Dongcheng"/>
+		<city code="110102" value="Xicheng"/>
+		<city code="110103" value="Chongwen"/>
+		<city code="110104" value="Xuanwu"/>
+		<city code="110105" value="Chaoyang"/>
+		<city code="110106" value="Fengtai"/>
+		<city code="110107" value="Shijingshan"/>
+		<city code="110108" value="Haidian"/>
+		<city code="110109" value="Mentougou"/>
+		<city code="110111" value="Fangshan"/>
+		<city code="110112" value="Tongzhou"/>
+		<city code="110113" value="Shunyi"/>
+		<city code="110114" value="Changping"/>
+		<city code="110115" value="Daxing"/>
+		<city code="110116" value="Huairou"/>
+		<city code="110117" value="Pinggu"/>
+		<city code="110228" value="Miyun"/>
+		<city code="110229" value="Yanqing"/>
+		<city code="110230" value="Other areas"/>
+	</province>
+	<province code="120000" value="Tianjin">
+		<city code="120101" value="Heping"/>
+		<city code="120102" value="Hedong"/>
+		<city code="120103" value="Hexi"/>
+		<city code="120104" value="Nankai"/>
+		<city code="120105" value="Hebei"/>
+		<city code="120106" value="Hongqiao"/>
+		<city code="120107" value="Tanggu"/>
+		<city code="120108" value="Hangu"/>
+		<city code="120109" value="Dagang"/>
+		<city code="120110" value="Dongli"/>
+		<city code="120111" value="Xiqing"/>
+		<city code="120112" value="Jinnan"/>
+		<city code="120113" value="Beichen"/>
+		<city code="120114" value="Wuqing"/>
+		<city code="120115" value="Baodi"/>
+		<city code="120221" value="Ninghe"/>
+		<city code="120223" value="Jinghai"/>
+		<city code="120225" value="Jixian"/>
+		<city code="120226" value="Other areas"/>
+	</province>
+	<province code="130000" value="Hebei">
+		<city code="130100" value="Shijiazhuang"/>
+		<city code="130200" value="Tangshan"/>
+		<city code="130300" value="Qinhuangdao"/>
+		<city code="130400" value="Handan"/>
+		<city code="130500" value="Xingtai"/>
+		<city code="130600" value="Baoding"/>
+		<city code="130700" value="Zhangjiakou"/>
+		<city code="130800" value="Chengde"/>
+		<city code="130900" value="Cangzhou"/>
+		<city code="131000" value="Langfang"/>
+		<city code="131100" value="Hengshui"/>
+	</province>
+	<province code="140000" value="Shaanxi">
+		<city code="140100" value="Taiyuan"/>
+		<city code="140200" value="Datong"/>
+		<city code="140300" value="Yangquan"/>
+		<city code="140400" value="Changzhi"/>
+		<city code="140500" value="Jincheng"/>
+		<city code="140600" value="Shuozhou"/>
+		<city code="140700" value="Jinzhong"/>
+		<city code="140800" value="Yuncheng"/>
+		<city code="140900" value="Xinzhou"/>
+		<city code="141000" value="Linfen"/>
+		<city code="141100" value="Luliang"/>
+	</province>
+	<province code="150000" value="Inner Mongolia">
+		<city code="150100" value="Hohhot"/>
+		<city code="150200" value="Baotou"/>
+		<city code="150300" value="Wuhai"/>
+		<city code="150400" value="Chifeng"/>
+		<city code="150500" value="Tongliao"/>
+		<city code="150600" value="Ordos"/>
+		<city code="150700" value="Hulun Buir"/>
+		<city code="150800" value="Bayannur"/>
+		<city code="150900" value="Ulan Qab"/>
+		<city code="152200" value="an"/>
+		<city code="152500" value="Xilin Gol"/>
+		<city code="152900" value="Alxa"/>
+	</province>
+	<province code="210000" value="Liaoning">
+		<city code="210100" value="Shenyang"/>
+		<city code="210200" value="Dalian"/>
+		<city code="210300" value="Anshan"/>
+		<city code="210400" value="Fushun"/>
+		<city code="210500" value="Benxi"/>
+		<city code="210600" value="Dandong"/>
+		<city code="210700" value="Jinzhou"/>
+		<city code="210800" value="Yingkou"/>
+		<city code="210900" value="Fuxin"/>
+		<city code="211000" value="Liaoyang"/>
+		<city code="211100" value="Panjin"/>
+		<city code="211200" value="Tieling"/>
+		<city code="211300" value="Chaoyang"/>
+		<city code="211400" value="Huludao"/>
+	</province>
+	<province code="220000" value="Jilin">
+		<city code="220100" value="Changchun"/>
+		<city code="220200" value="Jilin"/>
+		<city code="220300" value="Siping"/>
+		<city code="220400" value="Liaoyuan"/>
+		<city code="220500" value="Tonghua"/>
+		<city code="220600" value="Baishan"/>
+		<city code="220700" value="Songyuan"/>
+		<city code="220800" value="Baicheng"/>
+		<city code="222400" value="Yanbian"/>
+	</province>
+	<province code="230000" value="Heilongjiang">
+		<city code="230100" value="Harbin"/>
+		<city code="230200" value="Qiqihar"/>
+		<city code="230300" value="Jixi"/>
+		<city code="230400" value="Hegang"/>
+		<city code="230500" value="Shuangyashan"/>
+		<city code="230600" value="Daqing"/>
+		<city code="230700" value="Yichun"/>
+		<city code="230800" value="Jiamusi"/>
+		<city code="230900" value="Qitaihe"/>
+		<city code="231000" value="Mudanjiang"/>
+		<city code="231100" value="Heihe"/>
+		<city code="231200" value="Suihua"/>
+		<city code="232700" value="Da Hinggan Ling"/>
+	</province>
+	<province code="310000" value="Shanghai">
+	    <city code="310101" value="Huangpu"/>
+		<city code="310103" value="Luwan"/>
+		<city code="310104" value="Xuhui"/>
+		<city code="310105" value="Changning"/>
+		<city code="310106" value="an"/>
+		<city code="310107" value="Putuo"/>
+		<city code="310108" value="Zhabei"/>
+		<city code="310109" value="Hongkou"/>
+		<city code="310110" value="Yangpu"/>
+		<city code="310112" value="Minhang"/>
+		<city code="310113" value="Baoshan"/>
+		<city code="310114" value="Jiading"/>
+		<city code="310115" value="Pudong New Area"/>
+		<city code="310116" value="Jinshan"/>
+		<city code="310117" value="Songjiang"/>
+		<city code="310118" value="Qingpu"/>
+		<city code="310119" value="Nanhui"/>
+		<city code="310120" value="Fengxian"/>
+		<city code="310152" value="Chuansha"/>
+		<city code="310230" value="Chongming"/>
+		<city code="310231" value="Other areas"/>
+	</province>
+	<province code="320000" value="Jiangsu">
+		<city code="320100" value="Nanjing"/>
+		<city code="320200" value="Wuxi"/>
+		<city code="320300" value="Xuzhou"/>
+		<city code="320400" value="Changzhou"/>
+		<city code="320500" value="Suzhou"/>
+		<city code="320600" value="Nantong"/>
+		<city code="320700" value="Lianyungang"/>
+		<city code="320800" value="an"/>
+		<city code="320900" value="Yancheng"/>
+		<city code="321000" value="Yangzhou"/>
+		<city code="321100" value="Zhenjiang"/>
+		<city code="321200" value="Taizhou"/>
+		<city code="321300" value="Suqian"/>
+	</province>
+	<province code="330000" value="Zhejiang">
+		<city code="330100" value="Hangzhou"/>
+		<city code="330200" value="Ningbo"/>
+		<city code="330300" value="Wenzhou"/>
+		<city code="330400" value="Jiaxing"/>
+		<city code="330500" value="Huzhou"/>
+		<city code="330600" value="Shaoxing"/>
+		<city code="330700" value="Jinhua"/>
+		<city code="330800" value="Quzhou"/>
+		<city code="330900" value="Zhoushan"/>
+		<city code="331000" value="Taizhou"/>
+		<city code="331100" value="Lishui"/>
+	</province>
+	<province code="340000" value="Anhui">
+		<city code="340100" value="Hefei"/>
+		<city code="340200" value="Wuhu"/>
+		<city code="340300" value="Bengbu"/>
+		<city code="340400" value="Huainan"/>
+		<city code="340500" value="anshan"/>
+		<city code="340600" value="Huaibei"/>
+		<city code="340700" value="Tongling"/>
+		<city code="340800" value="Anqing"/>
+		<city code="341000" value="Huangshan"/>
+		<city code="341100" value="Chuzhou"/>
+		<city code="341200" value="Fuyang"/>
+		<city code="341300" value="Suzhou"/>
+		<city code="341400" value="Chaohu"/>
+		<city code="341500" value="an"/>
+		<city code="341600" value="Bozhou"/>
+		<city code="341700" value="Chizhou"/>
+		<city code="341800" value="Xuancheng"/>
+	</province>
+	<province code="350000" value="Fujian">
+		<city code="350100" value="Fuzhou"/>
+		<city code="350200" value="Xiamen"/>
+		<city code="350300" value="Putian"/>
+		<city code="350400" value="Sanming"/>
+		<city code="350500" value="Quanzhou"/>
+		<city code="350600" value="Zhangzhou"/>
+		<city code="350700" value="Nanping"/>
+		<city code="350800" value="Longyan"/>
+		<city code="350900" value="Ningde"/>
+	</province>
+	<province code="360000" value="Jiangxi">
+		<city code="360100" value="Nanchang"/>
+		<city code="360200" value="Jingdezhen"/>
+		<city code="360300" value="Pingxiang"/>
+		<city code="360400" value="Jiujiang"/>
+		<city code="360500" value="Xinyu"/>
+		<city code="360600" value="Yingtan"/>
+		<city code="360700" value="Ganzhou"/>
+		<city code="360800" value="an"/>
+		<city code="360900" value="Yichun"/>
+		<city code="361000" value="Fuzhou"/>
+		<city code="361100" value="Shangrao"/>
+	</province>
+	<province code="370000" value="Shandong">
+		<city code="370100" value="Jinan"/>
+		<city code="370200" value="Qingdao"/>
+		<city code="370300" value="Zibo"/>
+		<city code="370400" value="Zaozhuang"/>
+		<city code="370500" value="Dongying"/>
+		<city code="370600" value="Yantai"/>
+		<city code="370700" value="Weifang"/>
+		<city code="370800" value="Jining"/>
+		<city code="370900" value="an"/>
+		<city code="371000" value="Weihai"/>
+		<city code="371100" value="Rizhao"/>
+		<city code="371200" value="Laiwu"/>
+		<city code="371300" value="Linyi"/>
+		<city code="371400" value="Dezhou"/>
+		<city code="371500" value="Liaocheng"/>
+		<city code="371600" value="Binzhou"/>
+		<city code="371700" value="Heze"/>
+	</province>
+	<province code="410000" value="Henan">
+		<city code="410100" value="Zhengzhou"/>
+		<city code="410200" value="Kaifeng"/>
+		<city code="410300" value="Luoyang"/>
+		<city code="410400" value="Pingdingshan"/>
+		<city code="410500" value="Anyang"/>
+		<city code="410600" value="Hebi"/>
+		<city code="410700" value="Xinxiang"/>
+		<city code="410800" value="Jiaozuo"/>
+		<city code="410881" value="Jiyuan"/>
+		<city code="410900" value="Puyang"/>
+		<city code="411000" value="Xuchang"/>
+		<city code="411100" value="Luohe"/>
+		<city code="411200" value="Sanmenxia"/>
+		<city code="411300" value="Nanyang"/>
+		<city code="411400" value="Shangqiu"/>
+		<city code="411500" value="Xinyang"/>
+		<city code="411600" value="Zhoukou"/>
+		<city code="411700" value="Zhumadian"/>
+	</province>
+	<province code="420000" value="Hubei">
+		<city code="420100" value="Wuhan"/>
+		<city code="420200" value="Huangshi"/>
+		<city code="420300" value="Shiyan"/>
+		<city code="420500" value="Yichang"/>
+		<city code="420600" value="Xiangfan"/>
+		<city code="420700" value="Ezhou"/>
+		<city code="420800" value="Jingmen"/>
+		<city code="420900" value="Xiaogan"/>
+		<city code="421000" value="Jingzhou"/>
+		<city code="421100" value="Huanggang"/>
+		<city code="421200" value="Xianning"/>
+		<city code="421300" value="Suizhou"/>
+		<city code="422800" value="Enshi"/>
+		<city code="429004" value="Xiantao"/>
+		<city code="429005" value="Qianjiang"/>
+		<city code="429006" value="Tianmen"/>
+		<city code="429021" value="Shennongjia"/>
+	</province>
+	<province code="430000" value="Hunan">
+		<city code="430100" value="Changsha"/>
+		<city code="430200" value="Zhuzhou"/>
+		<city code="430300" value="Xiangtan"/>
+		<city code="430400" value="Hengyang"/>
+		<city code="430500" value="Shaoyang"/>
+		<city code="430600" value="Yueyang"/>
+		<city code="430700" value="Changde"/>
+		<city code="430800" value="Zhangjiajie"/>
+		<city code="430900" value="Yiyang"/>
+		<city code="431000" value="Chenzhou"/>
+		<city code="431100" value="Yongzhou"/>
+		<city code="431200" value="Huaihua"/>
+		<city code="431300" value="Loudi"/>
+		<city code="433100" value="Xiangxi"/>
+	</province>
+	<province code="440000" value="Guangdong">
+		<city code="440100" value="Guangzhou"/>
+		<city code="440200" value="Shaoguan"/>
+		<city code="440300" value="Shenzhen"/>
+		<city code="440400" value="Zhuhai"/>
+		<city code="440500" value="Shantou"/>
+		<city code="440600" value="Foshan"/>
+		<city code="440700" value="Jiangmen"/>
+		<city code="440800" value="Zhanjiang"/>
+		<city code="440900" value="Maoming"/>
+		<city code="441200" value="Zhaoqing"/>
+		<city code="441300" value="Huizhou"/>
+		<city code="441400" value="Meizhou"/>
+		<city code="441500" value="Shanwei"/>
+		<city code="441600" value="Heyuan"/>
+		<city code="441700" value="Yangjiang"/>
+		<city code="441800" value="Qingyuan"/>
+		<city code="441900" value="Dongguan"/>
+		<city code="442000" value="Zhongshan"/>
+		<city code="445100" value="Chaozhou"/>
+		<city code="445200" value="Jieyang"/>
+		<city code="445300" value="Yunfu"/>
+	</province>
+	<province code="450000" value="Guangxi">
+		<city code="450100" value="Nanning"/>
+		<city code="450200" value="Liuzhou"/>
+		<city code="450300" value="Guilin"/>
+		<city code="450400" value="Wuzhou"/>
+		<city code="450500" value="Beihai"/>
+		<city code="450600" value="Fangchenggang"/>
+		<city code="450700" value="Qinzhou"/>
+		<city code="450800" value="Guigang"/>
+		<city code="450900" value="Yulin"/>
+		<city code="451000" value="Baise"/>
+		<city code="451100" value="Hezhou"/>
+		<city code="451200" value="Hechi"/>
+		<city code="451300" value="Laibin"/>
+		<city code="451400" value="Chongzuo"/>
+	</province>
+	<province code="460000" value="Hainan">
+		<city code="460100" value="Haikou"/>
+		<city code="460200" value="Sanya"/>
+		<city code="469001" value="Wuzhishan"/>
+		<city code="469002" value="Qionghai"/>
+		<city code="469003" value="Danzhou"/>
+		<city code="469005" value="Wenchang"/>
+		<city code="469006" value="Wanning"/>
+		<city code="469007" value="Dongfang"/>
+		<city code="469025" value="an"/>
+		<city code="469026" value="Tunchang"/>
+		<city code="469027" value="Chengmai"/>
+		<city code="469028" value="Lingao"/>
+		<city code="469030" value="Baisha"/>
+		<city code="469031" value="Changjiang"/>
+		<city code="469033" value="Ledong"/>
+		<city code="469034" value="Lingshui"/>
+		<city code="469035" value="Baoting"/>
+		<city code="469036" value="Qiongzhong"/>
+		<city code="469037" value="Paracel Islands"/>
+		<city code="469038" value="Spratly Islands"/>
+		<city code="469039" value="Macclesfield Islands"/>
+	</province>
+	<province code="500000" value="Chongqing">
+	    <city code="500101" value="Wanzhou"/>
+		<city code="500102" value="Fuling"/>
+		<city code="500103" value="Yuzhong"/>
+		<city code="500104" value="Dadukou"/>
+		<city code="500105" value="Jiangbei"/>
+		<city code="500106" value="Shapingba"/>
+		<city code="500107" value="Jiulongpo"/>
+		<city code="500108" value="an"/>
+		<city code="500109" value="Beibei"/>
+		<city code="500110" value="Wansheng"/>
+		<city code="500111" value="Shuangqiao"/>
+		<city code="500112" value="Yubei"/>
+		<city code="500113" value="Banan"/>
+		<city code="500114" value="Qianjiang"/>
+		<city code="500115" value="Changshou"/>
+		<city code="500222" value="Qijiang"/>
+		<city code="500223" value="Tongnan"/>
+		<city code="500224" value="Tongliang"/>
+		<city code="500225" value="Dazu"/>
+		<city code="500226" value="Rongchang"/>
+		<city code="500227" value="Bishan"/>
+		<city code="500228" value="Liangping"/>
+		<city code="500229" value="Chengkou"/>
+		<city code="500230" value="Fengdu"/>
+		<city code="500231" value="Dianjiang"/>
+		<city code="500232" value="Wulong"/>
+		<city code="500233" value="ZhongXian"/>
+		<city code="500234" value="KaiXian"/>
+		<city code="500235" value="Yunyang"/>
+		<city code="500236" value="Fengjie"/>
+		<city code="500237" value="Wushan"/>
+		<city code="500238" value="Wuxi"/>
+		<city code="500240" value="Shizhu"/>
+		<city code="500241" value="Xiushan"/>
+		<city code="500242" value="Youyang"/>
+		<city code="500243" value="Pengshui"/>
+		<city code="500381" value="Jiangjin"/>
+		<city code="500382" value="Hechuan"/>
+		<city code="500383" value="Yongchuan"/>
+		<city code="500384" value="Nanchuan"/>
+		<city code="500385" value="Other areas"/>
+	</province>
+	<province code="510000" value="Sichuan">
+		<city code="510100" value="Chengdu"/>
+		<city code="510300" value="Zigong"/>
+		<city code="510400" value="Panzhihua"/>
+		<city code="510500" value="Luzhou"/>
+		<city code="510600" value="Deyang"/>
+		<city code="510700" value="Mianyang"/>
+		<city code="510800" value="Guangyuan"/>
+		<city code="510900" value="Suining"/>
+		<city code="511000" value="Neijiang"/>
+		<city code="511100" value="Leshan"/>
+		<city code="511300" value="Nanchong"/>
+		<city code="511400" value="Meishan"/>
+		<city code="511500" value="Yibin"/>
+		<city code="511600" value="an"/>
+		<city code="511700" value="Dazhou"/>
+		<city code="511800" value="an"/>
+		<city code="511900" value="Bazhong"/>
+		<city code="512000" value="Ziyang"/>
+		<city code="513200" value="Aba"/>
+		<city code="513300" value="Garze"/>
+		<city code="513400" value="Liangshan"/>
+	</province>
+	<province code="520000" value="Guizhou">
+		<city code="520100" value="Guiyang"/>
+		<city code="520200" value="Liupanshui"/>
+		<city code="520300" value="Zunyi"/>
+		<city code="520400" value="Anshun"/>
+		<city code="522200" value="Tongren"/>
+		<city code="522300" value="Qianxi"/>
+		<city code="522400" value="Bijie"/>
+		<city code="522600" value="Qiandong"/>
+		<city code="522700" value="Qiannan"/>
+	</province>
+	<province code="530000" value="Yunnan">
+		<city code="530100" value="Kunming"/>
+		<city code="530300" value="Qujing"/>
+		<city code="530400" value="Yuxi"/>
+		<city code="530500" value="Baoshan"/>
+		<city code="530600" value="Zhaotong"/>
+		<city code="530700" value="Lijiang"/>
+		<city code="530800" value="er"/>
+		<city code="530900" value="Lincang"/>
+		<city code="532300" value="Chuxiong"/>
+		<city code="532500" value="Red River"/>
+		<city code="532600" value="Wenshan"/>
+		<city code="532800" value="Xishuangbanna"/>
+		<city code="532900" value="Dali"/>
+		<city code="533100" value="Dehong"/>
+		<city code="533300" value="Nujiang"/>
+		<city code="533400" value="Diqing"/>
+	</province>
+	<province code="540000" value="Tibet">
+		<city code="540100" value="Lhasa"/>
+		<city code="542100" value="Qamdo"/>
+		<city code="542200" value="Shannan"/>
+		<city code="542300" value="Xigaze"/>
+		<city code="542400" value="Nagqu"/>
+		<city code="542500" value="Ali"/>
+		<city code="542600" value="Nyingchi"/>
+	</province>
+	<province code="610000" value="Shanxi">
+		<city code="610100" value="an"/>
+		<city code="610200" value="Tongchuan"/>
+		<city code="610300" value="Baoji"/>
+		<city code="610400" value="Xianyang"/>
+		<city code="610500" value="Weinan"/>
+		<city code="610600" value="an"/>
+		<city code="610700" value="Hanzhong"/>
+		<city code="610800" value="Yulin"/>
+		<city code="610900" value="Ankang"/>
+		<city code="611000" value="Shangluo"/>
+	</province>
+	<province code="620000" value="Gansu">
+		<city code="620100" value="Lanzhou"/>
+		<city code="620200" value="Jiayuguan"/>
+		<city code="620300" value="Jinchang"/>
+		<city code="620400" value="Baiyin"/>
+		<city code="620500" value="Tianshui"/>
+		<city code="620600" value="Wuwei"/>
+		<city code="620700" value="Zhangye"/>
+		<city code="620800" value="Pingliang"/>
+		<city code="620900" value="Jiuquan"/>
+		<city code="621000" value="Qingyang"/>
+		<city code="621100" value="Dingxi"/>
+		<city code="621200" value="Longnan"/>
+		<city code="622900" value="Linxia"/>
+		<city code="623000" value="Gannan"/>
+	</province>
+	<province code="630000" value="Qinghai">
+		<city code="630100" value="Xining"/>
+		<city code="632100" value="Haidong"/>
+		<city code="632200" value="Haibei"/>
+		<city code="632300" value="Huangnan"/>
+		<city code="632500" value="Hainan"/>
+		<city code="632600" value="Guoluo"/>
+		<city code="632700" value="Yushu"/>
+		<city code="632800" value="Haixi"/>
+	</province>
+	<province code="640000" value="Ningxia">
+		<city code="640100" value="Yinchuan"/>
+		<city code="640200" value="Shizuishan"/>
+		<city code="640300" value="Wuzhong"/>
+		<city code="640400" value="Guyuan"/>
+		<city code="640500" value="Zhongwei"/>
+	</province>
+	<province code="650000" value="Xinjiang">
+		<city code="650100" value="Urumqi"/>
+		<city code="650200" value="Karamay"/>
+		<city code="652100" value="Turpan"/>
+		<city code="652200" value="Hami"/>
+		<city code="652300" value="Changji"/>
+		<city code="652700" value="Bortala"/>
+		<city code="652800" value="Bayingolin"/>
+		<city code="652900" value="Aksu"/>
+		<city code="653000" value="Kizilsu"/>
+		<city code="653100" value="Kashi"/>
+		<city code="653200" value="Hotan"/>
+		<city code="654000" value="Ili"/>
+		<city code="654200" value="Tacheng"/>
+		<city code="654300" value="Altay"/>
+		<city code="659001" value="Shihezi"/>
+		<city code="659002" value="Alar"/>
+		<city code="659003" value="Tumsuk"/>
+		<city code="659004" value="Wujiaqu"/>
+	</province>
+	<province code="710000" value="Taiwan">
+		<city code="710100" value="Taipei City"/>
+		<city code="710200" value="Kaohsiung City"/>
+		<city code="710300" value="Tainan City"/>
+		<city code="710400" value="Taichung City"/>
+		<city code="710500" value="Kinmen County"/>
+		<city code="710600" value="Nantou County"/>
+		<city code="710700" value="Keelung City"/>
+		<city code="710800" value="Hsinchu City"/>
+		<city code="710900" value="Chiayi City"/>
+		<city code="711100" value="Taipei County"/>
+		<city code="711200" value="Yilan County"/>
+		<city code="711300" value="Hsinchu County"/>
+		<city code="711400" value="Taoyuan County"/>
+		<city code="711500" value="Miaoli County"/>
+		<city code="711600" value="Taichung County"/>
+		<city code="711700" value="Changhua County"/>
+		<city code="711900" value="Chiayi County"/>
+		<city code="712100" value="Yunlin County"/>
+		<city code="712200" value="Tainan County"/>
+		<city code="712300" value="Kaohsiung County"/>
+		<city code="712400" value="Pingtung County"/>
+		<city code="712500" value="Taitung County"/>
+		<city code="712600" value="Hualien County"/>
+		<city code="712700" value="Penghu County"/>
+	</province>
+	<province code="810000" value="Hong Kong SAR">
+		<city code="810100" value="Hong Kong Island"/>
+		<city code="810200" value="Kowloon"/>
+		<city code="810300" value="New Territories"/>
+	</province>
+	<province code="820000" value="Macao SAR">
+		<city code="820100" value="Macau Peninsula"/>
+		<city code="820200" value="Taipa"/>
+		<city code="820200" value="Coloane"/>
+		<city code="820200" value="Cotai"/>
+		
+	</province>
+
+</resources>
